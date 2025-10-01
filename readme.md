@@ -46,7 +46,7 @@ This guide explains how to install CAST AI on your Amazon EKS cluster.
 - An existing EKS cluster with node pool built using custom launch template
 - `kubectl` configured for your cluster
 - AWS CLI installed
-- CAST AI account ([Sign up here](https://app.cast.ai/signup))
+- CAST AI account ([Sign up here](https://cast.ai/piyush))
 
 
 ## Steps
